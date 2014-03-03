@@ -3,7 +3,7 @@
  * Plugin Name: Get your number
  * Plugin URI: https://github.com/punchcreative/get-your-number
  * Description: A random number generator as an assist for subscribing to an event with a limited number of participants. See the plugin site for a more detailed description.
- * Version: 1.1 beta
+ * Version: 1.1
  * Author: Erik Kroon | Punch Creative
  * Author URI: http://www.punchcreative.nl
  * License: GPL2
