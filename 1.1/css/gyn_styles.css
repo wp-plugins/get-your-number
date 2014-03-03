@@ -1,0 +1,35 @@
+/* CSS Document 
+ * GYN Wordpress plugin
+*/
+
+.formfield {
+	width: 100%;
+}
+
+.gyn-label {
+	font-weight:bold;
+	color: #4C4C4C;
+}
+
+.gyn-alert {
+	color: #00AC1A;
+}
+
+td.gyn-warning {
+	color: #FC9292;
+}
+
+td.form-field-label {
+	width: 20%;
+}
+
+.gyn-reg-users-table,
+.gyn-admin-warning-table,
+.admin-settings-box {
+	margin: 10px 0;
+}
+
+.widefat td.wrap-it {
+	max-width: 300px;
+	word-wrap: normal;
+}
