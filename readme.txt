@@ -3,7 +3,7 @@ Contributors: mail@punchcreative.nl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=H6Y3AFKN2QL76&lc=NL&item_name=Punch%20Creative&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: numbers, random, subscription, email, bingo
 Requires at least: 3.6
-Tested up to: 3.7
+Tested up to: 3.8.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
